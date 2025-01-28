@@ -38,4 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Продажи</subsystems>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.Продажи</documents>
 </mdclass:Configuration>
